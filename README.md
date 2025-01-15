@@ -35,6 +35,9 @@ Project Highlights:
 * 2017: Payments 7.3M, Profit 1.51M
 * 2018: Payments 8.9M, Profit 1.97M
   
+# Dashboard
+![Screenshot 2025-01-15 112711](https://github.com/user-attachments/assets/23c9e854-24f0-439a-a278-a449527be245)
+
 # Outcomes:
 * Identified key patterns in payment and review trends, enabling better customer engagement strategies.
 * Highlighted high-performing cities, states, and categories to guide resource allocation and marketing efforts.
